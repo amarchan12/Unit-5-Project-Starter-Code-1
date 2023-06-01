@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: Courgette;
+    background-color: #f0c0d9 ;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+  border-radius: 10px;
+}
+
+.result {
+  padding-bottom: 200px;
+}
+
